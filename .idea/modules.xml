@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Windandtides.iml" filepath="$PROJECT_DIR$/Windandtides.iml" />
       <module fileurl="file://$PROJECT_DIR$/Robolectric.iml" filepath="$PROJECT_DIR$/Robolectric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Windandtides.iml" filepath="$PROJECT_DIR$/Windandtides.iml" />
     </modules>
   </component>
 </project>
